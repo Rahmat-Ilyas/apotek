@@ -1,0 +1,4 @@
+Acces MAsuk :
+Admin 
+user: admin
+pass: admin
