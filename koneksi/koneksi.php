@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("db4free.net", "rahmatilyas", "14-02-1998", "db_apotek");
+$conn = mysqli_connect("sql12.freemysqlhosting.net", "sql12354440", "WE3NLWZZKq", "sql12354440");
 
 $datareset = mysqli_query($conn, "SELECT * FROM tb_resep WHERE status='Belum Acc'");
 $notif=[];
